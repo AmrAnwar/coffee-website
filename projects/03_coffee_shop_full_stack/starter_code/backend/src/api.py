@@ -29,7 +29,7 @@ def get_drinks():
 
 
 '''
-implement endpoint
+TODO implement endpoint
 '''
 @app.route('/drinks-detail', methods=['GET'])
 @cross_origin(headers=['Content-Type', 'Authorization'])
@@ -121,7 +121,7 @@ def unprocessable(error):
 
 
 '''
-implement error handlers
+TODO implement error handlers
 '''
 
 
