@@ -12,3 +12,9 @@ test.db
 .Trashes
 ehthumbs.db
 Thumbs.db
+todo
+venv
+backend/venv
+frontend/yarn.lock
+frontend/package-lock.json
+backend/src/database/database.db
